@@ -1,4 +1,4 @@
-# ALI-A // 1 OF 1 — 21st Birthday Edition
+# ALI-A // 21st Birthday Edition
 
 A custom 2D pixel-art web platformer and interactive cake decorator built as a 21st birthday gift.
 
